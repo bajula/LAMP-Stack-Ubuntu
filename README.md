@@ -9,8 +9,10 @@
 
 
 ## To download and run the script on your server :
-* #cd /usr/local/src
-* #git clone  https://github.com/bajula/LEMP-Stack-Ubuntu.git
-* #cd /LEMP-Stack-Ubuntu
-* #chmod +x *.sh
-* #./lemp-install.sh
+```bash
+#cd /usr/local/src
+#git clone  https://github.com/bajula/LEMP-Stack-Ubuntu.git
+#cd /LEMP-Stack-Ubuntu
+#chmod +x *.sh
+#./lemp-install.sh
+```
